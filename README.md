@@ -1,10 +1,10 @@
 Introduction:
-This report analyzes tourist attractions across India to identify meaningful market segments for a Smart Tour Guide application. Using clustering techniques on geographic, significance, and Google review data, we identified four distinct segments that help optimize marketing strategies and feature development. 
-Key Findings:
-•	Identified 4 clusters with distinct characteristics.
-•	Premium attractions show 23% higher ratings than average.
-•	Religious sites dominate in Southern states.
-•	Budget attractions receive 5× more reviews than premium ones.
+This report analyzes tourist attractions across India to identify meaningful market segments for a Smart Tour Guide application. Using clustering techniques on geographic, significance, and Google review data, we identified four distinct segments that help optimize marketing strategies and feature development. \n
+Key Findings:\n
+•	Identified 4 clusters with distinct characteristics.\n
+•	Premium attractions show 23% higher ratings than average.\n
+•	Religious sites dominate in Southern states.\n
+•	Budget attractions receive 5× more reviews than premium ones.\n
 
 Methodology:
 Data Source
